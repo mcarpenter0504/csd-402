@@ -1,3 +1,10 @@
+/* 
+Name: Madilyn Carpenter
+Date: 11/02/2025
+Assignment 8
+Purpose: Take integer array list and display largest number in list.
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
